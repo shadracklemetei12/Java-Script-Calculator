@@ -55,7 +55,7 @@ button:active {
     color: white;
 }
 
-bopdy {
+body {
     margin: 0;
     display: flex;
     justify-content: center;
@@ -75,6 +75,7 @@ padding: 20px;
     border-radius: 15px;
     max-width: 400px;
     overflow: hidden;
+    margin: 0px;
 
     /* padding-left: 15px; */
 }
