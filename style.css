@@ -42,6 +42,7 @@ button:active {
     background-color: hsl(0, 0%, 15%);
     border-radius: 15px;
     max-width: 500px;
+    /* max-height: 1700px; */
     overflow: hidden;
 }
 
@@ -60,7 +61,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 150vh;
     background-color: hsl(0, 0%, 30%);
 }
 @media(max-width: 480px){
